@@ -30,7 +30,7 @@
   "homepage": "https://github.com/borodayev/mongoose-history-diff",
   "license": "MIT",
   "peerDependencies": {
-    "mongoose": "^6.0.14"
+    "mongoose": "6.4.1"
   },
   "devDependencies": {
     "@jest/globals": "^27.4.2",
